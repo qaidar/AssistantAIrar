@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "830080690590",
+    "project_id": "chatgpt-kodelib",
+    "storage_bucket": "chatgpt-kodelib.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830080690590:android:34c11bdc65b10dfe03ce8f",
+        "android_client_info": {
+          "package_name": "com.kodelib.chatai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830080690590-ebifcmc3opluvdemh7upgrvlbqbuv5t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACgCqBQkPTYE1hwMYwNkGcHGmMyYoegrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830080690590-ebifcmc3opluvdemh7upgrvlbqbuv5t8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

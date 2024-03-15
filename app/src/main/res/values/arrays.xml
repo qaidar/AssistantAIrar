@@ -1,0 +1,35 @@
+<resources>
+    <array name="category_colors">
+        <item>#83FACF</item>
+        <item>#059EB2</item>
+        <item>#FF0000</item>
+
+        <item>#83FACF</item>
+        <item>#059EB2</item>
+        <item>#FF0000</item>
+
+        <item>#83FACF</item>
+        <item>#059EB2</item>
+        <item>#FF0000</item>
+
+        <item>#83FACF</item>
+        <item>#059EB2</item>
+        <item>#FF0000</item>
+
+        <item>#83FACF</item>
+        <item>#059EB2</item>
+        <item>#FF0000</item>
+
+        <item>#83FACF</item>
+        <item>#059EB2</item>
+        <item>#FF0000</item>
+
+        <item>#83FACF</item>
+        <item>#059EB2</item>
+        <item>#FF0000</item>
+
+        <item>#83FACF</item>
+        <item>#059EB2</item>
+        <item>#FF0000</item>
+    </array>
+</resources>

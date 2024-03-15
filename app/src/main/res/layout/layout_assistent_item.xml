@@ -1,0 +1,42 @@
+<RelativeLayout android:layout_width="200dp"
+    android:layout_height="200dp"
+    android:layout_marginEnd="7.5dp"
+    android:gravity="center"
+    android:background="@drawable/chat_screen_cards_shape"
+    android:layout_marginStart="7.5dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/ivImage"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/pro_software_engr" />
+
+    <TextView
+        android:id="@+id/tvName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/bold"
+        android:gravity="center"
+        android:layout_marginTop="15dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/ivImage"
+        android:text="Software Engineer"
+        android:textColor="@color/white"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/tvCategory"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/reg"
+        android:gravity="center"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/tvName"
+        android:text="Productivity"
+        android:textSize="12sp"
+        android:textColor="@color/white"/>
+
+
+</RelativeLayout>

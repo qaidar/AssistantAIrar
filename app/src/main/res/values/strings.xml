@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ChatGPT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="item_1">Chat</string>
+    <string name="item_2">Assistants</string>
+    <string name="item_3">Prompts</string>
+    <string name="item_4">History</string>
+    <string name="ask_ai_to_write_a_song_for_you_it_is_easy_time_saving"><![CDATA[Ask AI to write a song for you. It is easy & time saving.]]></string>
+</resources>

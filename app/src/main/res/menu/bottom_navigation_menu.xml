@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/iChat"
+        android:icon="@drawable/ic_home"
+        android:title="@string/item_1"
+        />
+
+    <item
+        android:id="@+id/iModel"
+        android:icon="@drawable/ic_models"
+        android:title="@string/item_2" />
+
+    <item
+        android:id="@+id/iPrompts"
+        android:icon="@drawable/ic_prompts"
+        android:title="@string/item_3" />
+
+</menu>
